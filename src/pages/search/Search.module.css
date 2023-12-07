@@ -1,0 +1,35 @@
+.Search {
+  background-color: #000;
+  height: 100%;
+  min-height: 100vh;
+  color: #fff;
+}
+.containerOption {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1.6rem;
+  margin-bottom: 2.4rem;
+}
+
+.itemOption {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.itemOption label {
+  font-size: 1.2rem;
+}
+
+.itemOption select {
+  padding: 0.2rem 0.4rem;
+}
+.page {
+  margin-left: 2.2rem;
+  font-size: 16px;
+}
+.pageinput {
+  padding: 0;
+  width: 3rem;
+}

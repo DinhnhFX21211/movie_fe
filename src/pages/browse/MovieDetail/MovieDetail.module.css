@@ -1,0 +1,34 @@
+.movie {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+.detail {
+  width: 50%;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.detail h2 {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #fff;
+}
+
+.date,
+.vote {
+  font-weight: bold;
+}
+
+.video {
+  width: 50%;
+}
+
+.youtube,
+.backdrop {
+  width: 100%;
+}
+.ytp-pause-overlay,
+.ytp-expand-pause-overlay {
+  display: none;
+}

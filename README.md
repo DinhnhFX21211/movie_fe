@@ -14,8 +14,8 @@ ReactJS"
 
 **Link demo:**
 
-client: [a link]https://movie-fe-4ozu.onrender.com
-admin:
-sever:
+client: https://movie-fe-4ozu.onrender.com
 
-Instructions to run the program on local: open file index.html
+sever: https://movie-be-3pam.onrender.com
+
+Instructions to run the program on local: open terminal => run "npm install" => run "npm start"
